@@ -12,3 +12,17 @@
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/895733388262252544)
 
+
+### Day 2: August 11, 2017
+
+
+**Today's Progress**: 
+  1. Continued learning to use Git on the command line, 
+  2. Started reading Eloquent Javascript(EJ) by Marijn Haverbeke, focussed on Data Structures & Objects.
+  3. Worked through several exercises from EJ with Sublime & Node.js.
+  4. Looked into productivity improvement techniques, focussed on Bullet Journaling, started using Pomodoro Clock, to break activities into bitesize chunks.
+
+
+**Thoughts:** Less time to code today, but managed to download Eloquent Javascript Book & refresh myself on Data Structures and Objects. Felt a little overwhelmed with amount of material I **WANT** to learn. Encouraged by articles I found on bullet journaling, and Pomodoro clock techniques. 
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/896080881063829504)
