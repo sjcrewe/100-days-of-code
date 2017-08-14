@@ -13,7 +13,7 @@
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/895733388262252544)
 
 
-### Day 2: August 12, 2017
+### Day 2: August 11, 2017
 
 
 **Today's Progress**: 
@@ -28,7 +28,7 @@
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/896080881063829504)
 
 
-### Day 3: August 13, 2017
+### Day 3: August 12, 2017
 
 
 **Today's Progress**: 
@@ -41,7 +41,7 @@
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/896424927389265920)
 
 
-### Day 4: August 14, 2017
+### Day 4: August 13, 2017
 
 
 **Today's Progress**: 
@@ -53,3 +53,15 @@
 **Thoughts:** A busy day landscaping the garden again, but set aside two hours to deep dive Array methods, to gain a greater understanding of what each method does. Made a start on the FCC Front End Dev Projects, with initial sketches of what I want the first project page to look like, based on required user stories.
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/896805461193871362)
+
+
+### Day 5: August 14, 2017
+
+
+**Today's Progress**: 
+  1. Started coding FCC Tribute Page to Tim Berner's Lee 
+
+
+**Thoughts:** After leaving it so long to start the Tribute page found HTML knowledge was rusty. Had to refresh on tags and Bootstrap before coding.
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/897183105949343749)
