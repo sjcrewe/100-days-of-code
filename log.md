@@ -65,3 +65,15 @@
 **Thoughts:** After leaving it so long to start the Tribute page found HTML knowledge was rusty. Had to refresh on tags and Bootstrap before coding.
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/897183105949343749)
+
+
+### Day 6: August 15, 2017
+
+
+**Today's Progress**: 
+  1. Worked on FCC Tribute Page to Tim Berner's Lee 
+
+
+**Thoughts:** Much more enthusiastic about getting on with the coding, now that I've actually started...really enjoying it, dare I say more than the FCC challenges and tutorials.
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/897546298630574080)
