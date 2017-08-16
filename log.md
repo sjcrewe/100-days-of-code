@@ -77,3 +77,16 @@
 **Thoughts:** Much more enthusiastic about getting on with the coding, now that I've actually started...really enjoying it, dare I say more than the FCC challenges and tutorials.
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/897546298630574080)
+
+
+### Day 7: August 16, 2017
+
+
+**Today's Progress**: 
+  1. Minor updates to FCC Tribute Page.
+  2. FCC Algorithm challenges, coded in Sublime using Node.js for testing.
+
+
+**Thoughts:** Didn't have much cpare time today to work on the tribute page today, but managed to work through several code challenges on FCC.
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/897904970342813696)
