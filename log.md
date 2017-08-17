@@ -90,3 +90,14 @@
 **Thoughts:** Didn't have much cpare time today to work on the tribute page today, but managed to work through several code challenges on FCC.
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/897904970342813696)
+
+
+### Day 8: August 17, 2017
+
+
+**Today's Progress**: 
+  1. FCC Algorithm challenges, specifically Caesars Cipher ALgorithm.
+
+**Thoughts:** First solution created again using sublime and Node.js for testing, but didn't seem to pass the tests of FreeCodeCamp. Need to understand what was wrong with this implementation.
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/898268040848183296)
