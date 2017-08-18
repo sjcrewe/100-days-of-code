@@ -96,8 +96,21 @@
 
 
 **Today's Progress**: 
-  1. FCC Algorithm challenges, specifically Caesars Cipher ALgorithm.
+  1. FCC Algorithm challenges, specifically Caesars Cipher Algorithm.
 
 **Thoughts:** First solution created again using sublime and Node.js for testing, but didn't seem to pass the tests of FreeCodeCamp. Need to understand what was wrong with this implementation.
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/898268040848183296)
+
+
+### Day 9: August 18, 2017
+
+
+**Today's Progress**: 
+  1. Comleted Caesars Cipher Algorithm.
+  2. FreeCodeCamp JSON API's & AJAX.
+
+**Thoughts:** On holiday tomorrow for a week, so had a lot to do today, but found a few hours to complete the Caesars Cipher algorithm and start looking at the JSON API's section on FCC. Downloaded Vim cheat sheet, with a view to getting to know it better and use it more. Sublime still seems to be easiest editor to use, with very light requirement on system resources. Vim requires the least amount of resources it seems, but  has a steep learning curve.
+
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/898609452076507136)
