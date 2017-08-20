@@ -114,3 +114,27 @@
 
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/898609452076507136)
+
+
+### Day 10: August 19, 2017
+
+
+**Today's Progress**: 
+  1. No coding today as travelling for vacation but managed to read up on a few HTML and CSS techniques.
+
+**Thoughts:** No time for coding. A little frustrated with not having the time to get on with some hacking.
+
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/899000498803572737)
+
+
+### Day 11: August 20, 2017
+
+
+**Today's Progress**: 
+  1. Reading up on Parallax Effect.
+
+**Thoughts:** Decided to re-visit my ideas for a tribute page and tackle something more challenging, incorprating the parallax effect into the design. Would also like to do a site on someone or something I find more inspiring, than original idea for a tribute page to Tim Berner's Lee....sorry Tim!
+
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/899330974445711360)
