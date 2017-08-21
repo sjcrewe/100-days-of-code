@@ -138,3 +138,15 @@
 
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/899330974445711360)
+
+
+### Day 12: August 20, 2017
+
+
+**Today's Progress**: 
+  1. Watched several Parallax Effect video tutorials, created initial test page.
+
+**Thoughts:** Have concluded that I can't really take a vacation and commit to coding at the same time, so the rest of this week will have to be reading and watching video tutorials when I can, and getting up at 5am, before the kids so that I can get some coding done. Want to give the family my attention so coding has to be slotted in when I can.
+
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/899698010485137411)
