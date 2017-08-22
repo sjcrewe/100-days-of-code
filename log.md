@@ -140,7 +140,7 @@
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/899330974445711360)
 
 
-### Day 12: August 20, 2017
+### Day 12: August 21, 2017
 
 
 **Today's Progress**: 
@@ -150,3 +150,16 @@
 
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/899698010485137411)
+
+
+### Day 13: August 22, 2017
+
+
+**Today's Progress**: 
+  1. Researched material for Tribute Page, started planning story for the site. User story already defined by FCC.
+  2. Completed JSON API challenges on Free Code Camp.
+
+**Thoughts:** Lagging behind now on projects. Need to knuckle down and get the first two done. Been delayed after deciding to find someone/something more inspirational and resaerching the parallax effect.
+
+
+**Link to work:** [https://twitter.com/techcrewe/status/900060486401699840)
