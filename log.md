@@ -169,12 +169,14 @@
 
 
 **Today's Progress**: 
-  1. Read Higher Order fucntions chapter in Eloquent Javascript (supporting yesterday's work on JSON API's).
-  2. Worked through exercises in online version of eloquent Javascript.
+  1. Read Higher Order functions chapter in Eloquent Javascript (supporting yesterday's work on JSON API's).
+  2. Worked through exercises from online version of Eloquent Javascript.
   3. Created repo with my solutions to Free Code Camp challenges.
 
 
 **Thoughts:** All done today before 9am, starting the day at 6am with Hal Elrod's S.A.V.E.R.S routine. Still need to complete FCC projects, but feel like I've achieved something today, meeting my tragets so early on.
 
 
-**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/900060486401699840)
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/900428220469841920)
+[FCC_Challenges_My_Solutions](https://github.com/sjcrewe/FCC_Challenges_My_Solutions)
