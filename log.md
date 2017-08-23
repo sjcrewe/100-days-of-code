@@ -162,4 +162,19 @@
 **Thoughts:** Lagging behind now on projects. Need to knuckle down and get the first two done. Been delayed after deciding to find someone/something more inspirational and resaerching the parallax effect.
 
 
-**Link to work:** [https://twitter.com/techcrewe/status/900060486401699840)
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/900060486401699840)
+
+
+### Day 14: August 23, 2017
+
+
+**Today's Progress**: 
+  1. Read Higher Order fucntions chapter in Eloquent Javascript (supporting yesterday's work on JSON API's).
+  2. Worked through exercises in online version of eloquent Javascript.
+  3. Created repo with my solutions to Free Code Camp challenges.
+
+
+**Thoughts:** All done today before 9am, starting the day at 6am with Hal Elrod's S.A.V.E.R.S routine. Still need to complete FCC projects, but feel like I've achieved something today, meeting my tragets so early on.
+
+
+**Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/900060486401699840)
