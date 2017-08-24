@@ -180,3 +180,19 @@
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/900428220469841920)
 [FCC_Challenges_My_Solutions](https://github.com/sjcrewe/FCC_Challenges_My_Solutions)
+
+
+### Day 15: August 24, 2017
+
+
+**Today's Progress**: 
+  1. Further work on Parallax Effect, and how to reference external files style sheet files with Codepen; need to upgrade to Pro account.
+  2. Synchronised Github, FreeCodeCamp & Codepen accounts to all use "techcrewe" username as per Twitter account.
+  3. Cloned github repos to laptop.
+
+
+**Thoughts:** Once again all done before 9am; with the Miracle Morning routine done before tackling coding tasks.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/900787361835085829)
