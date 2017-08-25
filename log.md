@@ -196,3 +196,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/900787361835085829)
+
+
+### Day 16: August 25, 2017
+
+
+**Today's Progress**: 
+  1. Travelling all day, so only managed to read a few sections of Eloquent Javascript.
+
+
+**Thoughts:** Back to coding tomorrow, hopefully.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/901142841954623488)
