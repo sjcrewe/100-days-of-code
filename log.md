@@ -210,3 +210,18 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/901142841954623488)
+
+
+### Day 17: August 26, 2017
+
+
+**Today's Progress**: 
+  1. Updated the code for three Tradestation indicators and uploaded to Tradestation github repo. Indicators written in Easylanguage
+
+
+**Thoughts:** Back to web development tomorrow.
+
+
+**Links to work:**
+[Tradestation Indicators](https://github.com/techcrewe/Tradestation)
+[Twitter Entry](https://twitter.com/techcrewe/status/901495469137948676)
