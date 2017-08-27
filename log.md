@@ -225,3 +225,21 @@
 **Links to work:**
 [Tradestation Indicators](https://github.com/techcrewe/Tradestation)
 [Twitter Entry](https://twitter.com/techcrewe/status/901495469137948676)
+
+
+### Day 18: August 27, 2017
+
+
+**Today's Progress**: 
+  1. Read a great article on Medium, titled "Is Vanilla JavaScript worth learning?"
+  2. Read article on Hackernoon, "Javascript ES6 — Exploring the New Built-In Methods"
+  2. Encouraged to continue reading and worked through sections of Eloquent Javascript book.
+  3. Created github repo for Ninjatrader indicators, written in C#. 
+
+
+**Thoughts:** Didn't manage to do any web development today. Spent time outdoors with family while the hot weather was with us.
+
+
+**Links to work:**
+[Ninjatrader Indicators](https://github.com/techcrewe/Ninjatrader-Code)
+[Twitter Entry](https://twitter.com/techcrewe/status/901878487933440001)
