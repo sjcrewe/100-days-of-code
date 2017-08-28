@@ -243,3 +243,17 @@
 **Links to work:**
 [Ninjatrader Indicators](https://github.com/techcrewe/Ninjatrader-Code)
 [Twitter Entry](https://twitter.com/techcrewe/status/901878487933440001)
+
+
+### Day 19: August 28, 2017
+
+
+**Today's Progress**: 
+  1. After a break whilst on vacation, started working on Tribute Page again, subject will be Isaac Newton. 
+  2. Started reading "You Don't Know Javascript" by Kyle Simpson, after reading the Medium article, "Is Vanilla JavaScript worth learning?". Focussed on Scope and Closures.
+
+**Thoughts:** A day for getting those niggly little jobs out of the way, but also managed to get back to the FCC Tribute Page challenge.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/902242697792020480)
