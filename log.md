@@ -257,3 +257,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/902242697792020480)
+
+
+### Day 20: August 29, 2017
+
+
+**Today's Progress**: 
+  1. Less time today with first day back at the day job, but managed an hour to work on the Parallax site. 
+
+
+**Thoughts:** Finding it difficult to re-engage only having one hour per evening to work on projects. Need to define smaller chunks of work as part of the whole project, and tackle one or two per night.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/902618931864768512)
