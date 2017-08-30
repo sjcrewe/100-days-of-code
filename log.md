@@ -271,3 +271,19 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/902618931864768512)
+
+
+### Day 21: August 30, 2017
+
+
+**Today's Progress**: 
+  1. Understanding the structure of a responsive parallax site.
+  2. Researching content for a parallax site.
+  3. Putting together 6 month study plan for courses I want to complete, on the path to becoming a full stck developer and Android Associate. 
+
+
+**Thoughts:** No coding today, but found and read plenty of material for my parallax site. Also inspired after putting the skeleton together of my study plan.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/902980197221269504)
