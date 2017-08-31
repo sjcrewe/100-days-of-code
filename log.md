@@ -287,3 +287,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/902980197221269504)
+
+
+### Day 22: August 31, 2017
+
+
+**Today's Progress**: 
+  1. How do twitter bots work? Timeout to read up on Twitter bot I want to create, using Node.js.
+
+
+**Thoughts:** Took a break from coding challenges and projects, to look into Twitter Bots.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/903340712988725248)
