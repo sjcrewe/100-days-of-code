@@ -301,3 +301,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/903340712988725248)
+
+
+### Day 23: September 1, 2017
+
+
+**Today's Progress**: 
+  1. Parsing text file data with Python, for some further analysis and plotting with Matplotlib.
+
+
+**Thoughts:** Commitments on other projects, mean't I couldn't pursue the work I really wanted to on Front End Development. Although it wasn't work for the day job, it was for a private client, so still strictly private code development work.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/903698162992459778)
