@@ -315,3 +315,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/903698162992459778)
+
+
+### Day 24: September 2, 2017
+
+
+**Today's Progress**: 
+  1. Full review of Scalable Machine Learning Course with Python on EDX.
+
+
+**Thoughts:** I did a lot for good work on the EDX course and learned a lot too, achieved 100%, pround of that. Need to create repo and upload my solutions to the challenges from that course. Should still have the Vagrant VM.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/904046388027195393)
