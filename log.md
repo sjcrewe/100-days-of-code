@@ -329,3 +329,18 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/904046388027195393)
+
+
+### Day 25: September 3, 2017
+
+
+**Today's Progress**: 
+  1. Back to front end development. Researching Horizontal Parallax Effect; trying out code snippets.
+  2. Gathering images and content for parallax site.
+
+
+**Thoughts:** Didn't manage to get old PC up and running today; it has the Vagrant VM on it that Iused for the EDX Scalable Machine Learning course, mentioned yesterday. PC seems to have a problem with it's graphics card connector.Did get back to the frond end development though, and quite excited to see the finished site, which will use parallax in a slightly different way
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/904396996613734400)
