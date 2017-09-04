@@ -344,3 +344,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/904396996613734400)
+
+
+### Day 26: September 4, 2017
+
+
+**Today's Progress**: 
+  1. Evaluating several jQuery plugins to implement horizontal parallax effect.
+
+
+**Thoughts:** Not as much time as I would have liked coding today, but still managed to play around with several plugins and demo implementations to get a feel for how to use them.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/904794105275928582)
