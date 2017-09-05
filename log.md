@@ -358,3 +358,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/904794105275928582)
+
+
+### Day 27: September 5, 2017
+
+
+**Today's Progress**: 
+  1. Trying out ideas to get horizontal scrolling of a div whilst the rest of the page scrolls vertically.
+
+
+**Thoughts:** This could be quite tricky!
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/905152799599624192)
