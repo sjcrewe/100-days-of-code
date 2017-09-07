@@ -372,3 +372,31 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/905152799599624192)
+
+
+### Day 28: September 6, 2017
+
+
+**Today's Progress**: 
+  1. Trying out CSS animations, transitions & transforms for an alternative implementation of parallax effect.
+
+
+**Thoughts:** Having doubts about tackling horizontal and vertical parallax at this stage. Need to complete a a projetc and work from there.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/905500520286212098)
+
+
+### Day 29: September 7, 2017
+
+
+**Today's Progress**: 
+  1. More work on CSS transitions, started coding static parallax site for practice.
+
+
+**Thoughts:** Back to actual coding, and feeling more at home.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/905879204721565696)
