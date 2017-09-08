@@ -400,3 +400,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/905879204721565696)
+
+
+### Day 30: September 8, 2017
+
+
+**Today's Progress**: 
+  1. Nore work on CSS properties, evaluating code snippets with Atom.
+
+
+**Thoughts:** 1-2 hrs per day doesn't allow for much progress per day, but slowly chipping away at daily issues and building on the skillset..the tortoise wins the race after all!
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/906226151575695360)
