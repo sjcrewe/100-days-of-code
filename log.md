@@ -414,3 +414,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/906226151575695360)
+
+
+### Day 31: September 9, 2017
+
+
+**Today's Progress**: 
+  1. Experimented with image crossfading using jQuery.
+
+
+**Thoughts:** I've found the technique I want to use for my FCC Tribute Page. Still need to put together the basic structure for the site, to demonstrate as much of what I have learned as I can.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/906574289406754816)
