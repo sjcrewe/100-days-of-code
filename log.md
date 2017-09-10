@@ -428,3 +428,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/906574289406754816)
+
+
+### Day 32: September 10, 2017
+
+
+**Today's Progress**: 
+  1. More work on CSS cross fading. Created a few test pages to get a better idea of what I can do, and what I can't.
+
+
+**Thoughts:** Not as much time to code as I'd hoped today. Kids were, required more of my time, but still managed an hour to try out a few more CSS techniques.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/906948903609802752)
