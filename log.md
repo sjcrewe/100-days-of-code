@@ -442,3 +442,18 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/906948903609802752)
+
+
+### Day 33: September 11, 2017
+
+
+**Today's Progress**: 
+  1. Testing out CSS and HTML code snippets/ideas using VS Code.
+  2. Started on Udacity/Google Developer Application.
+
+
+**Thoughts:** Progressing slowly, but still moving forward.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/906948903609802752)
