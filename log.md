@@ -472,3 +472,18 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/907685514622500866)
+
+
+### Day 35: September 13, 2017
+
+
+**Today's Progress**:
+  1. Refresher on jQuery API.
+  2. Eventually got cross fading to work on scroll.
+
+
+**Thoughts:** Slow progress, but progress nonetheless.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/907685514622500866)
