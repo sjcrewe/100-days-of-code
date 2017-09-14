@@ -487,3 +487,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/908055072881479680)
+
+
+### Day 36: September 14, 2017
+
+
+**Today's Progress**:
+  1. Further reading on jQuery API.
+
+
+**Thoughts:** No coding today.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/908407174380101632)
