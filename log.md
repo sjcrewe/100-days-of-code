@@ -501,3 +501,18 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/908407174380101632)
+
+
+### Day 37: September 15, 2017
+
+
+**Today's Progress**:
+  1. Python Code Re-factoring.
+  2. CSS animations and Transitions
+
+
+**Thoughts:** Much more like it, plenty of coding today.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/908767420269174789)
