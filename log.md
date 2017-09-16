@@ -516,3 +516,19 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/908767420269174789)
+
+
+### Day 38: September 16, 2017
+
+
+**Today's Progress**:
+  1. Reading only today.
+  2. A couple of sections read from Eloquent Javascript.
+  3. Remote procedure calls and how to implement them with Python.
+
+
+**Thoughts:** No coding, but fragmented reading.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/909122596196806657)
