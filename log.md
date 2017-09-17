@@ -532,3 +532,18 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/909122596196806657)
+
+
+### Day 39: September 17, 2017
+
+
+**Today's Progress**:
+  1. A quicker refresher on positioning, floats, margins etc.
+  2. More experimenting with CSS animations.
+
+
+**Thoughts:** Main family day, but managed to find an hour to go over basic html & CSS animations.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/909122596196806657)
