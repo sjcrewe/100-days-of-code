@@ -547,3 +547,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/909486042171965441)
+
+
+### Day 40: September 18, 2017
+
+
+**Today's Progress**:
+  1. Some manipulation of element positioning for Tribute page.
+
+
+**Thoughts:** Not much time today, but did some Javascripting reading and changes to layout.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/909860100466266112)
