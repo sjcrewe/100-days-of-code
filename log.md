@@ -561,3 +561,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/909860100466266112)
+
+
+### Day 41: September 19, 2017
+
+
+**Today's Progress**:
+  1. More Experimenting with CSS styles, to get a deeper understanding of how properties like position, overflow, float, inline-block and their values, can be used to used with each other.
+
+
+**Thoughts:** Pleased with today's progress. Mindful of the Udacity Scholarship application deadline. Want to reference a repo in the application.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/909860100466266112)
