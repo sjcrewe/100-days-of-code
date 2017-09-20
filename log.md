@@ -575,3 +575,17 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/910222795203805186)
+
+
+### Day 42: September 20, 2017
+
+
+**Today's Progress**:
+  1. Back to FCC tribute page, creating framework for a single page site with image transitions on page scroll.
+
+
+**Thoughts:** Not as much progress as I had hoped for today, but slow progress is better than none, when trying to squeeze this in around a day job.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/910591035490922497)
