@@ -589,3 +589,16 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/910591035490922497)
+
+
+### Day 43: September 21, 2017
+
+
+**Today's Progress**:
+  1. More work on Tribute Page, using .scrollTop(), .height(), .fadeIn & .fadeOut methods.
+
+**Thoughts:** Working on element positions, and getting elements to fade properly. Not quite there yet.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/910591035490922497)
