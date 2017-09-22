@@ -603,3 +603,17 @@
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/910947960925671424)
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/edbe66bf8870ffa73609d52dde6516306d454d81)
+
+
+### Day 44: September 22, 2017
+
+
+**Today's Progress**:
+  1. More work on Tribute Page.
+  2. Installed Python & Jupyter extensions for VSCode
+
+**Thoughts:** Got most of the code snippets now for the Tribute page, just need to pull it all together, and write the content (have most of that sorted also).
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/911306719623548928)
