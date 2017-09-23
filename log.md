@@ -630,6 +630,6 @@
 
 
 **Links to work:**
-[Twitter Entry](https://twitter.com/techcrewe/status/911668164169265157)
+[Twitter Entry](https://twitter.com/techcrewe/status/911668164169265157) , 
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/1faaaadc184c28307948cadd5166ffbbcdc56b64)
