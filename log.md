@@ -617,3 +617,19 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/911306719623548928)
+
+
+### Day 45: September 22, 2017
+
+
+**Today's Progress**:
+  1. More work on Tribute Page.
+  2. Refresher on Matplotlib, scatter plots and basic use of Latex module, for text handling in Matplotlib.
+
+**Thoughts:** Didn't get as much done on the Tribute page as I'd hoped, having to fit coding around the family on a Saturday. I did however manage to steal an hour or so to refresh myself on how to use Matplotlib, and work on the Tribute Page Layout.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/911668164169265157)
+
+[Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/1faaaadc184c28307948cadd5166ffbbcdc56b64)
