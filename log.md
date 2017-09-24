@@ -619,7 +619,7 @@
 [Twitter Entry](https://twitter.com/techcrewe/status/911306719623548928)
 
 
-### Day 45: September 22, 2017
+### Day 45: September 23, 2017
 
 
 **Today's Progress**:
@@ -633,3 +633,18 @@
 [Twitter Entry](https://twitter.com/techcrewe/status/911668164169265157) , 
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/1faaaadc184c28307948cadd5166ffbbcdc56b64)
+
+
+### Day 46: September 24, 2017
+
+
+**Today's Progress**:
+  1. More work on Tribute Page.
+
+**Thoughts:** Getting there slowly with the page structure & how to implement fading for the Tribute Page Layout.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/912019071134289923) , 
+
+[Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/5d59925f6b7a5ef73bae5c0025fe0873acbb3b3f)
