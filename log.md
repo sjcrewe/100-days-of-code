@@ -648,3 +648,18 @@
 [Twitter Entry](https://twitter.com/techcrewe/status/912019071134289923) , 
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/5d59925f6b7a5ef73bae5c0025fe0873acbb3b3f)
+
+
+### Day 47: September 25, 2017
+
+
+**Today's Progress**:
+  1. More work on Tribute Page.
+
+**Thoughts:** Struggling with how to get Title and image Div below title, but both fixed but scalable. Then have scrolling text div directly below image. I'll get there.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/912398727473754112) , 
+
+[Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/66ef93930abee14de83ca26416f9d1c38ef333b0)
