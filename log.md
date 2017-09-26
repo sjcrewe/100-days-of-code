@@ -663,3 +663,18 @@
 [Twitter Entry](https://twitter.com/techcrewe/status/912398727473754112) , 
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/66ef93930abee14de83ca26416f9d1c38ef333b0)
+
+
+### Day 48: September 26, 2017
+
+
+**Today's Progress**:
+  1. More work on Tribute Page.
+
+**Thoughts:** Getting there.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/912762772181614597) , 
+
+[Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/850f6be91a9a5dd71b275b2962340a2546ec7b35)
