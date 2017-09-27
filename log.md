@@ -678,3 +678,18 @@
 [Twitter Entry](https://twitter.com/techcrewe/status/912762772181614597) , 
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/850f6be91a9a5dd71b275b2962340a2546ec7b35)
+
+
+### Day 49: September 27, 2017
+
+
+**Today's Progress**:
+  1. More work on Tribute Page, trying to get a div to flow underneath a fixed div containing an image that will change size as the width of the browser changes. 
+
+**Thoughts:** Struggling with this, so posted current status on stackoverflow, asking for pointers on what I may be doign wrong.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/913121975593259008) , 
+
+[Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/2164dfa5cc7bb4276f6bdba1cb8f61caef80eabd)
