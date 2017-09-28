@@ -693,3 +693,16 @@
 [Twitter Entry](https://twitter.com/techcrewe/status/913121975593259008) , 
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/2164dfa5cc7bb4276f6bdba1cb8f61caef80eabd)
+
+
+### Day 50: September 28, 2017
+
+
+**Today's Progress**:
+  1. Far too many meetings, so no coding today. Had to settle for some reading, "You Don't Know JS".
+
+**Thoughts:** Completely ran out of time today. No response from StackOverflow community so far.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/913475528149143552)
