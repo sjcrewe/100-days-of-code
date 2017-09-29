@@ -706,3 +706,16 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/913475528149143552)
+
+
+### Day 51: September 29, 2017
+
+
+**Today's Progress**:
+  1. Still trying to resolve fixed image div problem with FCC Tribute Page.
+
+**Thoughts:** Having productive dialogues with stackoverflow and freecodecamp forums, but no solution so far.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/913846243759190016)
