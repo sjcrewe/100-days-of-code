@@ -719,3 +719,16 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/913846243759190016)
+
+
+### Day 52: September 230, 2017
+
+
+**Today's Progress**:
+  1. Eventually managed to position text div below a fixed image div.
+
+**Thoughts:** With support from memebers of the FreeCodeCamp forum, I habe eventually managed to get a basic implementation of my FCC Tribute Page working. Now need to modify the Javascript to fade between images and fadeOut / fadeIn text when it scrolls.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/914180983477489664)
