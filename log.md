@@ -721,7 +721,7 @@
 [Twitter Entry](https://twitter.com/techcrewe/status/913846243759190016)
 
 
-### Day 52: September 230, 2017
+### Day 52: September 30, 2017
 
 
 **Today's Progress**:
@@ -732,3 +732,16 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/914180983477489664)
+
+
+### Day 53: October 1, 2017
+
+
+**Today's Progress**:
+  1. Tribute Page text div's positioned using jQuery. Now working on fading in and out of both text and images as user scrolls.
+
+**Thoughts:** Feel like I've broken through a major stumbling block. Definitely feel more comfortable working with Javascript than pure HTML & CSS.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/914562518793834496)
