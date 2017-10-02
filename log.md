@@ -745,3 +745,16 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/914562518793834496), [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/cfc4d949fb822c73b8b121b3894376419a1f0235)
+
+
+### Day 54: October 2, 2017
+
+
+**Today's Progress**:
+  1. Meetings in London today, so not much coding done, but plenty of jQuery reading on the train.
+
+**Thoughts:** Successful day off, catching up with old colleagues. A much needed break, but no coding today.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/914927486240206849)
