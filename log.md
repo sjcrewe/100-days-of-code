@@ -758,3 +758,16 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/914927486240206849)
+
+
+### Day 55: October 3, 2017
+
+
+**Today's Progress**:
+  1. Implemented text fading in and out on scroll using .fadeI, .fadeOut & .fadeToggle methods.
+
+**Thoughts:** Almost there with the page strycture and fading in/out of text divs. Need to refine zones for fading and then implement image fading as part of same conditional statements.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/915297799037755392), [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/0ac34c6e6cc0dec691e6ba8d590dca450bef6f5d)
