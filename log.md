@@ -87,7 +87,7 @@
   2. FCC Algorithm challenges, coded in Sublime using Node.js for testing.
 
 
-**Thoughts:** Didn't have much cpare time today to work on the tribute page today, but managed to work through several code challenges on FCC.
+**Thoughts:** Didn't have much spare time today to work on the tribute page today, but managed to work through several code challenges on FCC.
 
 **Link to work:** [Twitter Entry](https://twitter.com/techcrewe/status/897904970342813696)
 
@@ -630,7 +630,7 @@
 
 
 **Links to work:**
-[Twitter Entry](https://twitter.com/techcrewe/status/911668164169265157) , 
+[Twitter Entry](https://twitter.com/techcrewe/status/911668164169265157) ,
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/1faaaadc184c28307948cadd5166ffbbcdc56b64)
 
@@ -645,7 +645,7 @@
 
 
 **Links to work:**
-[Twitter Entry](https://twitter.com/techcrewe/status/912019071134289923) , 
+[Twitter Entry](https://twitter.com/techcrewe/status/912019071134289923) ,
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/5d59925f6b7a5ef73bae5c0025fe0873acbb3b3f)
 
@@ -660,7 +660,7 @@
 
 
 **Links to work:**
-[Twitter Entry](https://twitter.com/techcrewe/status/912398727473754112) , 
+[Twitter Entry](https://twitter.com/techcrewe/status/912398727473754112) ,
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/66ef93930abee14de83ca26416f9d1c38ef333b0)
 
@@ -675,7 +675,7 @@
 
 
 **Links to work:**
-[Twitter Entry](https://twitter.com/techcrewe/status/912762772181614597) , 
+[Twitter Entry](https://twitter.com/techcrewe/status/912762772181614597) ,
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/850f6be91a9a5dd71b275b2962340a2546ec7b35)
 
@@ -684,13 +684,13 @@
 
 
 **Today's Progress**:
-  1. More work on Tribute Page, trying to get a div to flow underneath a fixed div containing an image that will change size as the width of the browser changes. 
+  1. More work on Tribute Page, trying to get a div to flow underneath a fixed div containing an image that will change size as the width of the browser changes.
 
 **Thoughts:** Struggling with this, so posted current status on stackoverflow, asking for pointers on what I may be doign wrong.
 
 
 **Links to work:**
-[Twitter Entry](https://twitter.com/techcrewe/status/913121975593259008) , 
+[Twitter Entry](https://twitter.com/techcrewe/status/913121975593259008) ,
 
 [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/2164dfa5cc7bb4276f6bdba1cb8f61caef80eabd)
 
@@ -771,3 +771,18 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/915297799037755392), [Github Commit](https://github.com/techcrewe/FreeCodeCamp/commit/0ac34c6e6cc0dec691e6ba8d590dca450bef6f5d)
+
+
+### Day 56: October 4, 2017
+
+
+**Today's Progress**:
+  1. Small amount of time on Javascript fading.
+  2. Github housekeeping; uploading Ninjatrader C# indicators
+  3. Udacity application for Google Developer Scholarship.
+
+**Thoughts:** A fragmented day, with other things to sort out. Not as focussed as I'd hoped for.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/915658080494522368), [Github Commit](https://github.com/techcrewe/Ninjatrader-Code/commit/137c65537d8761cd109270e217ce5f112d1faa2d)
