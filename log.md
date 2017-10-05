@@ -786,3 +786,16 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/915658080494522368), [Github Commit](https://github.com/techcrewe/Ninjatrader-Code/commit/137c65537d8761cd109270e217ce5f112d1faa2d)
+
+
+### Day 57: October 5, 2017
+
+
+**Today's Progress**:
+  1. Installing Android SDK, and basic orientation session.
+
+**Thoughts:** Slightly different tack, looking at Android SDK in preparation for Android course, after completing FCC projects.
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/916019210102460416)
