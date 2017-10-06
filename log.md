@@ -799,3 +799,16 @@
 
 **Links to work:**
 [Twitter Entry](https://twitter.com/techcrewe/status/916019210102460416)
+
+
+### Day 58: October 6, 2017
+
+
+**Today's Progress**:
+  1. Getting familiar with Android.
+
+**Thoughts:** Manipulation of elements in Android SDK
+
+
+**Links to work:**
+[Twitter Entry](https://twitter.com/techcrewe/status/916368063255269376)
